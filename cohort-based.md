@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cohort-based Course
+permalink: /cohort-based/
+---
+
 # Pre-openseeds Course
 
 ## The Why

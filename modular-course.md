@@ -1,3 +1,9 @@
+---
+layout: page
+title: Modular Course Structure
+permalink: /modular-course/
+---
+
 # Research 101 Course
 
 ## THE WHY
