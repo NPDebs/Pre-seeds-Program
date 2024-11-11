@@ -21,7 +21,7 @@ To promote a positive and productive environment, participants are expected to:
 - Sustained disruption of discussions, either in public or private channels.
 
 ### Scope
-This Code of Conduct applies to all spaces associated with the project, including but not limited to project repositories, mailing lists, issue trackers, events (online or offline), and public representation of the project in other venues, such as social media. This also includes interactions outside of project spaces when they affect the community, such as harassment at events or other forms of misconduct that may harm our community's reputation.
+This Code of Conduct applies to **all spaces** associated with the project, including but not limited to project repositories, mailing lists, issue trackers, events (online or offline), and public representation of the project in other venues, such as social media. This also includes interactions outside of project spaces when they affect the community, such as harassment at events or other forms of misconduct that may harm our community's reputation.
 
 Certain project spaces may have additional rules specific to their nature, which participants are expected to follow alongside this Code of Conduct.
 
