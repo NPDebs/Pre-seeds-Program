@@ -11,7 +11,7 @@ To promote a positive and productive environment, participants are expected to:
 - Demonstrate empathy and kindness toward others.
 - Focus on the collective success of the community and project.
 
-Unacceptable behaviours include but are not limited to:
+**Unacceptable behaviours include but are not limited to:**
 - The use of sexualized language, images, or unwelcome sexual attention or advances.
 - Insults, derogatory comments, trolling, or personal and political attacks.
 - Harassment, intimidation, stalking, or inappropriate social contact.
