@@ -26,7 +26,7 @@ This Code of Conduct applies to **all spaces** associated with the project, incl
 Certain project spaces may have additional rules specific to their nature, which participants are expected to follow alongside this Code of Conduct.
 
 ### Enforcement
-Project maintainers are responsible for enforcing this Code of Conduct and ensuring compliance in project spaces. They are empowered to take corrective actions, which may include:
+**Project maintainers** are responsible for enforcing this Code of Conduct and ensuring compliance in project spaces. They are empowered to take corrective actions, which may include:
 - Warning the participant involved.
 - Removing comments, commits, code, or other contributions that do not align with this Code of Conduct.
 - Temporarily or permanently banning contributors or participants whose behaviour is deemed inappropriate, threatening, or harmful.
