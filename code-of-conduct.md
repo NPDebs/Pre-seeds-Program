@@ -42,7 +42,7 @@ When reporting, please provide as much information as possible, including:
 - A description of the incident, including any individuals involved, witnesses, and if the incident is ongoing.
 - Any supporting documentation, such as screenshots or relevant links.
 
-All complaints will be handled with discretion and confidentiality. If the report involves a member of the response team, they will recuse themselves from handling the issue. In such cases, another member of the project team will manage the report.
+**All complaints will be handled with discretion and confidentiality**. If the report involves a member of the response team, they will recuse themselves from handling the issue. In such cases, another member of the project team will manage the report.
 
 ### Confidentiality and Transparency
 We are committed to maintaining the confidentiality of reporters and victims. In certain situations, if it’s necessary to ensure the safety of the community or the general public, we may take further action by privately warning third parties or publicly naming the individual responsible for unacceptable behaviour. We will only name victims with their affirmative consent.
