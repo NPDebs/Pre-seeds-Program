@@ -51,4 +51,4 @@ We are committed to maintaining the confidentiality of reporters and victims. In
 Our community seeks to treat everyone as fairly and equally as possible. When mistakes happen, we expect members to take responsibility for their actions. If someone is harmed or offended, we are committed to listening carefully and respectfully, learning from the incident, and taking steps to make things right.
 
 ### Attribution
-This Code of Conduct is adapted from various open-source community codes, including the Open Life Science, Contributor Covenant (version 2.0), Geek Feminism, and CHAOSS, which promote inclusive and harassment-free participation.
+This Code of Conduct is adapted from various open-source community codes, including the [Open Life Science](https://github.com/open-life-science/open-life-science.github.io), [Contributor Covenant](https://www.contributor-covenant.org/)(version 2.0), [Geek Feminism](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/), and [CHAOSS](https://chaoss.community/), which promote inclusive and harassment-free participation.
