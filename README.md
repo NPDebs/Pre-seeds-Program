@@ -1,10 +1,12 @@
-# Pre-Openseeds Research Training Program
+![FOSDEM_Pre-seeds](https://github.com/user-attachments/assets/ad760ab1-a01b-4aeb-b891-8c2bfc6abc60)
+
+# Pre-seeds Research Training Program
 
 Welcome! This repository houses a vision of making the research landscape more equitable and diverse - a “**Research 101” course**, undergoing development. This project aims to provide accessible and flexible research training for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
 
 ## Project Overview
 
-The Pre-Openseeds program is in the early stages of development, and is evolving as it grows.
+The Pre-seeds program is in the early stages of development, and is evolving as it grows.
 
 It started as a beginner course designed to equip **aspiring researchers** with the foundational knowledge, skills and tools to embark on their journey. Gradually, it has morphed from the initial concept of a [cohort-based](cohort-based.md) training program to a [modular](modular-course.md) course structure. This approach allows for greater flexibility and inclusivity, catering to different learning needs and backgrounds.
 
