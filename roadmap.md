@@ -3,6 +3,12 @@
 ## Phase 1: Conceptualisation and Planning
 The goals during this phase include:
 - Define module scopes, objectives, and potential collaborators.
+- Conduct a preliminary investigation, including research into existing similar programs and identifying gaps.
+- Write contributor guidelines to ensure a welcoming and inclusive environment for all contributors.
+- Develop a roadmap outlining key milestones, timelines, and dependencies.
+- Create an open canvas to visualise project needs, potential barriers, and solutions.
+- Describe personas to represent target participants and contributors, considering their goals, challenges, and motivations.
+- Identify necessary tools, platforms, and resources for collaborative curriculum development.
 - Reach out to and connect with individuals who share a similar passion for developing or using Open Educational Resources.
 
 ## Phase 2: Collaborative Lesson Development Training
