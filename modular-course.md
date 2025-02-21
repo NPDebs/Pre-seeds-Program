@@ -92,7 +92,7 @@ The following is an overview of the topics to be covered in this course.  Each 
 * Informed consent and confidentiality
 * Institutional Review Board (IRB) approval process
 
-### Module 8: Writing and Presenting Research
+### Module 8: Writing Research
 * Structure of a research paper: Introduction, methods, results, discussion, and conclusion
 * Academic writing style and citation formats (e.g., APA, MLA)
 
@@ -163,7 +163,7 @@ The following is an overview of the topics to be covered in this course.  Each 
     * Understand the principles of informed consent and confidentiality, how to obtain it voluntarily from participants and safeguard their privacy throughout the research process.
     * Express knowledge of the Institutional Review Board (IRB) approval process, and understand its role in ensuring research compliance with ethical standards and regulations.
 
-### Module 8: Writing and Presenting Research
+### Module 8: Writing Research
   * At the end of this module, learners will be able to:
     * Outline the structural components of a research paper, as it relates to organising research findings.
     * Discuss academic writing style conventions and citation formats (e.g., APA, MLA) for proper attribution of sources.
