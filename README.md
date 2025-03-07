@@ -30,5 +30,5 @@ We believe in the power of collaboration and invite you to join us in shaping th
 
 ## Contact
 
-For questions, suggestions, or to express interest in collaboration, please reach out via [debs@we-are-ols.org](debs@we-are-ols.org).
+For questions, suggestions, or to express interest in collaboration, please reach out via [debs@we-are-ols.org](debs@we-are-ols.org) or [deborahudoh02@gmail.com](deborahudoh02@gmail.com).
 
