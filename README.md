@@ -24,6 +24,9 @@ It started as a beginner course designed to equip **aspiring researchers** with 
 ## Roadmap
 See our [roadmap](roadmap.md) for more details.
 
+## Hosting
+The Pre-seeds course is hosted in The Carpentries Workbench - see [Pre-seeds lesson repo](https://github.com/NPDebs/pre-seeds-research-101); and [lesson website](https://npdebs.github.io/pre-seeds-research-101/).
+
 ## How You Can Contribute
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
