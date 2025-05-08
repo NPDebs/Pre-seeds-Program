@@ -27,6 +27,12 @@ See our [roadmap](roadmap.md) for more details.
 ## Hosting
 The Pre-seeds course is hosted in The Carpentries Workbench - see [Pre-seeds lesson repo](https://github.com/NPDebs/pre-seeds-research-101); and [lesson website](https://npdebs.github.io/pre-seeds-research-101/).
 
+## Promotion
+These links take you to talks we've used to promote Pre-seeds:
+- RSECON24: [Emerging Voices Plenary](https://youtu.be/iRXe3dYu-Hs?si=TRwIijRNnnXR3jeM).
+- FOSDEM25: [Research 101: Promoting Diversity Through Open Science Literacy](https://fosdem.org/2025/schedule/event/fosdem-2025-5199-research-101-promoting-diversity-through-open-science-literacy/).
+- CW25: (Upcoming).
+
 ## How You Can Contribute
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
