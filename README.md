@@ -31,7 +31,7 @@ The Pre-seeds course is hosted in The Carpentries Workbench - see [Pre-seeds les
 These links take you to talks through which we've promoted Pre-seeds:
 - RSECON24: [Emerging Voices Plenary](https://youtu.be/iRXe3dYu-Hs?si=TRwIijRNnnXR3jeM).
 - FOSDEM25: [Research 101: Promoting Diversity Through Open Science Literacy](https://fosdem.org/2025/schedule/event/fosdem-2025-5199-research-101-promoting-diversity-through-open-science-literacy/).
-- CW25: (Upcoming).
+- CW25
 
 ## How You Can Contribute
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
