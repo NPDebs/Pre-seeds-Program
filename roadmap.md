@@ -1,5 +1,7 @@
 # Roadmap for Pre-openseeds Program
 
+![Pre-seeds_roadmap](https://github.com/user-attachments/assets/cea9b271-ecdc-46ad-a2f0-e98b5d48f0d2)
+
 ## Phase 1: Conceptualisation and Planning
 The goals during this phase include:
 - Define module scopes, objectives, and potential collaborators.
