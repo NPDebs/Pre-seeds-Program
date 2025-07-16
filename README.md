@@ -41,3 +41,15 @@ We believe in the power of collaboration and invite you to join us in shaping th
 
 For questions, suggestions, or to express interest in collaboration, please reach out via [debs@we-are-ols.org](debs@we-are-ols.org) or [deborahudoh02@gmail.com](deborahudoh02@gmail.com).
 
+
+## Our Supporters
+
+We thank the organisations who have supported the development and growth of Pre-Seeds through mentorship, community, infrastructure, or funding:
+
+* [The Carpentries](https://carpentries.org)
+* [Society of Research Software Engineering (SocRSE)](https://society-rse.org)
+* [Software Sustainability Institute (SSI)](https://www.software.ac.uk)
+* [OLS (Open Life Science)](https://we-are-ols.org)
+
+Their encouragement and contributions have helped shape this open, inclusive research training initiative.
+
